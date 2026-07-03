@@ -1,0 +1,3 @@
+Policy Code: POL-MED-102
+Category: Restricted Medical & Health Goods
+Rule: Advertisements for dietary supplements, weight loss formulations, or pharmaceutical goods must not claim unverified medical milestones. Phrases promising rapid, guaranteed physical mutations such as 'melt 20lbs in 48 hours' or using terms like 'secret weight loss pills' without clinical certification are banned to ensure user safety.

@@ -1,0 +1,3 @@
+Policy Code: POL-FIN-101
+Category: Misleading Financial Claims
+Rule: All advertisements promoting financial investments, revenue generation strategies, or work-from-home opportunities must explicitly state realistic earnings risks. Any ad copy guaranteeing fixed returns, using phrases like 'get rich quick', 'multiply coins instantly', or promising high daily payouts with 'zero risk' is strictly prohibited and subject to immediate account suspension.

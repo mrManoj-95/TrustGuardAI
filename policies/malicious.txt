@@ -1,0 +1,3 @@
+Policy Code: POL-SEC-103
+Category: Malicious and Evasive Content
+Rule: Advertisements must not link to deceptive landing pages or use shock-value tactics. Text containing explicit clickbait warnings, adult assertions, or intentional letter-substitutions/typos designed to obfuscate banned concepts (e.g., 'unl0ck', 'investm3nt') will be flagged as an active attempt to evade automated review systems.
